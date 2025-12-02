@@ -4,7 +4,7 @@
 # Mes Tableaux de bord
 Je mets à disposition ici les 3 tableaux de bord réalisés sur Power BI pendant la formation. Chacun d'entre eux est un livrable.
 
-# Voici un aperçu de la page d'accueil de l'un d'entre eux
+# Voici un aperçu de la page d'accueil de l'un d'entre eux (réaliser pour un site de vente en ligne de vin)
 <img width="2185" height="1274" alt="Apercu_1_Accueil" src="https://github.com/user-attachments/assets/6756617a-1ab9-4029-86e0-84122a6cd287" />
 
 
