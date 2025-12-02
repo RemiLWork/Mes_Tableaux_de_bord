@@ -8,10 +8,5 @@ Je mets à disposition ici les 3 tableaux de bord réalisés sur Power BI pendan
 <img width="2185" height="1274" alt="Apercu_1_Accueil" src="https://github.com/user-attachments/assets/6756617a-1ab9-4029-86e0-84122a6cd287" />
 
 
-# Voici également les liens vers les schémas préalables réalisés avant de travailler sur Power BI
-
-Mock Up Profil : https://miro.com/app/board/uXjVJ2r1jlc=/?share_link_id=271471205399
-
-Mock Up Veille : https://miro.com/app/board/uXjVJ2rOTzY=/?share_link_id=962698118103
 
 
